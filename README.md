@@ -1,4 +1,5 @@
 # Physical-Locations-Bitcoin
+Physical-Locations-Bitcoin
 
 There are a number of foreign currency exchanges and other places where there is a "storefront"/branch and an actual teller or other staff where you can just walk up and do a bitcoin buy and/or sell.
 
