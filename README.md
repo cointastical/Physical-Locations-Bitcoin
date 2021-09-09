@@ -30,7 +30,7 @@ There are a number of foreign currency exchanges and other places where there is
 - [Crypto Plug](https://www.cryptopluginglewood.com/) (💵) Inglewood, CA [Trading Space]
 - [Yap.cx](https://yap.cx/) (💵) Montreal, Quebec, Canada
 - [Coin Nerds](https://coinnerds.ca/) (💵) Mississauga, Ontario, Canada
-- Bitcoin Exchange [Coming Soon](https://twitter.com/tweetest1423/status/1435364695284715522) (💵) San Diego (Pacific Beach), CA
+- Bitcoin Exchange (💵) San Diego (Pacific Beach), CA ([Coming Soon](https://twitter.com/tweetest1423/status/1435364695284715522))
 
 **Asia-Pacific:**
 
