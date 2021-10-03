@@ -13,6 +13,7 @@ There are a number of foreign currency exchanges and other places where there is
 - [bitbuy.at](https://bitbuy.at/contact/us) (💵) Vienna, Austria
 - [iBEX London](https://www.ibex-bitcoin.com/) (💵) London, UK
 - [ComproEuros](https://comproeuro.it/) (💵) Roverto (TN), Bologna and Pordenone, Italy
+- [BitBase](https://bitbase.es/en/bitcoin-store-in-barcelona-eixample) (💵) Barcelona, Spain 
 - [Le Comptoir des Cybermonnaies](https://www.lecomptoirdescybermonnaies.fr/acheter-vendre-cryptomonnaies-comptoir) (💵) Bordeaux, France
 - [CoinsFera](https://www.coinsfera.com/) (💵) [Istanbul](https://www.coinsfera.com/en/branches?branch=istanbul), Turkey, and [Dubai](https://www.coinsfera.com/en/branches?branch=dubai), UAE
 - [Sirius Coin](https://www.siriuscoin.com/) (💵) Istanbul, Turkey
