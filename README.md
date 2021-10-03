@@ -36,6 +36,8 @@ There are a number of foreign currency exchanges and other places where there is
 
 - [Bitcoin Dealers](https://bitcoindealers.com.au/buy-bitcoins.html) (💵) Melbourne, Adelaide, & Sydney, Australia
 
+<hr />
+
 Vouchers (retail)
 -----------------
 
@@ -80,6 +82,8 @@ Some traders may have a fixed location, but are not considered to be "physical s
 
 - [Person-to-person (P2P) Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
+
+<hr />
 
 Many of the above entries were discovered through social media posts, [like this one](https://twitter.com/parisforpres/status/1174324943850524672), and [this one](https://twitter.com/FxUndisputed/status/1359338797687840772).
 
