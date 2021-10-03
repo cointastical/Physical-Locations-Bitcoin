@@ -82,6 +82,7 @@ Over-the-counter (OTC)
 Some traders may have a fixed location, but are not considered to be "physical stores":
 
 - [Person-to-person (P2P) Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
+- Satoshi Square Trading Events / In-Person Trading (e.g., [Satoshi Square L.A.](https://spelunk.in/2021/09/21/september-satoshi-square/), and find a person to trade with at many [Bitcoin conferences](https://www.coindesk.com/events/) and [Bitcoin meetups](https://www.google.com/maps/d/viewer?mid=1rbqiHELgkGta0QLG4TB0toHEdJdOfCRK&ll=41.52428047956433%2C-52.979125950000025&z=3))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
 
 <hr />
