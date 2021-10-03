@@ -85,7 +85,7 @@ Some traders may have a fixed location, but are not considered to be "physical s
 
 <hr />
 
-Many of the above entries were discovered through social media posts, [like this one](https://twitter.com/parisforpres/status/1174324943850524672), and [this one](https://twitter.com/FxUndisputed/status/1359338797687840772).
+Many of the above entries were discovered through online media posts, [like this one](https://www.wsj.com/articles/walk-in-cryptocurrency-exchanges-emerge-amid-bitcoin-boom-11633107697), and social media posts, [like this one](https://twitter.com/parisforpres/status/1174324943850524672), and [this one](https://twitter.com/FxUndisputed/status/1359338797687840772).
 
 Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/Physical-Locations-Bitcoin), or via [e-mail](mailto://cointastical@gmail.com).
 
