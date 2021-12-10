@@ -29,6 +29,7 @@ There are a number of foreign currency exchanges and other places where there is
 - [Bitcoin Exchange](https://twitter.com/tweetest1423/status/14436116073685647360) (💵) San Diego (Pacific Beach), CA
 - [Maine Bitcoin LLC](https://maine-bitcoin.com/office-lewiston) (💵) Lewiston, ME [Appointment required for face-to-face trade]
 - [BitLiquid](https://bit-liquid.com/contact#33eb8977-7de6-41b4-a017-4ec6a198f98b) (💵) St. Louis Park, MN & Las Vegas, NV
+- [CoinhubATM](https://coinhubatm.com/contact-us) (💵) Santa Monica, CA & Las Vegas, NV [Appointment required due to COVID measure]
 - [Crypto Plug](https://www.cryptopluginglewood.com/) (💵) Inglewood, CA [Trading Space]
 - [Yap.cx](https://yap.cx/) (💵) Montreal, Quebec, Canada
 - [Coin Nerds](https://coinnerds.ca/) (💵) Mississauga, Ontario, Canada
