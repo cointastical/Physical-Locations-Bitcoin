@@ -88,8 +88,6 @@ Some traders may have a fixed location, but are not considered to be "physical s
 - Satoshi Square Trading Events / In-Person Trading (e.g., [Satoshi Square L.A.](https://spelunk.in/2021/09/21/september-satoshi-square/), and find a person to trade with at many [Bitcoin conferences](https://www.coindesk.com/events/) and [Bitcoin meetups](https://www.google.com/maps/d/viewer?mid=1rbqiHELgkGta0QLG4TB0toHEdJdOfCRK&ll=41.52428047956433%2C-52.979125950000025&z=3))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
 
-<hr />
-
 Buy Online
 ----------------------
 
@@ -107,6 +105,8 @@ This document was specifically created for methods of buying, in-person, however
 - [Relai](https://relai.ch) <-- [Bitcoin Only](https://bitcoin-only.com/get-bitcoin), EU, and CH
 - [no-KYC only](https://bitcoinqna.github.io/noKYConly) Guide
 - [KYCNot.me](https://kycnot.me) Directory
+
+<hr />
 
 Many of the above entries were discovered through online media posts, [like this one](https://www.wsj.com/articles/walk-in-cryptocurrency-exchanges-emerge-amid-bitcoin-boom-11633107697), and social media posts, [like this one](https://twitter.com/parisforpres/status/1174324943850524672), and [this one](https://twitter.com/FxUndisputed/status/1359338797687840772).
 
