@@ -90,6 +90,24 @@ Some traders may have a fixed location, but are not considered to be "physical s
 
 <hr />
 
+Buy Online
+----------------------
+
+This document was specifically created for methods of buying, in-person, however there are numerous methods for buying bitcoin online.  The following is a subset:
+
+- [Dollar Cost Averaging - Exchanges](https://cointastical.medium.com/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)
+- [Exchanges with support for Lightning Network](https://github.com/cointastical/Exchanges-With-LN)
+- [Person-to-Person bitcoin Trading Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges)
+
+[**NO KYC**] Online Exchanges:
+
+- One [Azte.co](https://azte.co/vendors.html) vendor offers the [@BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) on Telegram, for purchase using SEPA/EUR bank transfer (and [@BitcoinVoucherGroup](https://t.me/BitcoinVoucherGroup) for support).
+- [lnp2pBot on Telegram](https://t.me/lnp2pBot) buy/sell P2P through LN. Mostly LATAM but also in EU/US.
+- [Ramp.Network](https://buy.ramp.network) <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
+- [Relai](https://relai.ch) <-- [Bitcoin Only](https://bitcoin-only.com/get-bitcoin), EU, and CH
+- [no-KYC only](https://bitcoinqna.github.io/noKYConly) Guide
+- [KYCNot.me](https://kycnot.me) Directory
+
 Many of the above entries were discovered through online media posts, [like this one](https://www.wsj.com/articles/walk-in-cryptocurrency-exchanges-emerge-amid-bitcoin-boom-11633107697), and social media posts, [like this one](https://twitter.com/parisforpres/status/1174324943850524672), and [this one](https://twitter.com/FxUndisputed/status/1359338797687840772).
 
 Additions, corrections, and other feedback welcome and can be submitted as an [issue or pull request on GitHub](https://github.com/cointastical/Physical-Locations-Bitcoin), or via [e-mail](mailto://cointastical@gmail.com).
