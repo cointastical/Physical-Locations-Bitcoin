@@ -44,7 +44,7 @@ Some of the following stores require KYC / Identity verification. When we learn 
 Vouchers (retail)
 -----------------
 
-- [Azte.co](https://azte.co/#find_a_vendor) ([⚡](https://lightningnetworkstores.com/wallets), 💵) U.S., Mexico, Guatemala, Jamaica, UK, Norway, Belgium, Spain, Malaysia, South Africa, Nigeria, & Uganda (and more coming)
+- [Azte.co](https://azte.co/#find_a_vendor) ([⚡](https://lightningnetworkstores.com/wallets), 💵) U.S., Canada, Mexico, Guatemala, Jamaica, UK, Norway, Belgium, Spain, Malaysia, Namibia, Botswana, South Africa, Nigeria, & Uganda (and more coming)
 - [FastBitcoins](https://fastbitcoins.com/#locations) ([⚡](https://lightningnetworkstores.com/wallets), 💵) Canada, UK, Australia, Greece, Estonia, Latvia, Kenya, Uganda, Ghana, Zambia, and Namibia
 - [LibertyX](https://libertyx.com/) (💵) U.S. [Locations with a cashier accept cash. Locations with a Kiosk accept debit card.]
 - [Rise Wallet](https://www.risewallet.com/locations) (💵) Canada
