@@ -34,6 +34,7 @@ Some of the following stores require KYC / Identity verification. When we learn 
 - [Crypto Plug](https://www.cryptopluginglewood.com/) (💵) Inglewood, CA [Trading Space]
 - [Yap.cx](https://yap.cx/) (💵) Montreal, Quebec, Canada
 - [Coin Nerds](https://coinnerds.ca/) (💵) Mississauga, Ontario, Canada
+- [The Coin Shack](https://thecoinshack.ca/) (💵) Toronto, Ontario, Canada
 
 **Asia-Pacific:**
 
