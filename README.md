@@ -83,7 +83,7 @@ Over-the-counter (OTC)
 
 Some traders may have a fixed location, but are not considered to be "physical stores":
 
-- [Person-to-person (P2P) Trading Exchanges](https://medium.com/@cointastical/p2p-otc-exchanges-e-g-localbitcoins-bisq-hodlhodl-etc-20f293a2c72e)
+- [Person-to-person (P2P) Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 - Satoshi Square Trading Events / In-Person Trading (e.g., [Satoshi Square L.A.](https://spelunk.in/2021/09/21/september-satoshi-square/), and find a person to trade with at many [Bitcoin conferences](https://www.coindesk.com/events/) and [Bitcoin meetups](https://www.google.com/maps/d/viewer?mid=1rbqiHELgkGta0QLG4TB0toHEdJdOfCRK&ll=41.52428047956433%2C-52.979125950000025&z=3))
 - OTC Trading Desks (e.g., Cumberland, SigOne Capital, and [several dozen others](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc))
 
@@ -93,8 +93,8 @@ Buy Online
 This document was specifically created for methods of buying, in-person, however there are numerous methods for buying bitcoin online.  The following is a subset:
 
 - [Dollar Cost Averaging - Exchanges](https://cointastical.medium.com/dollar-cost-averaging-the-answer-to-the-question-is-now-a-good-time-to-buy-bitcoin-a84e518f50f0)
-- [Exchanges with support for Lightning Network](https://github.com/cointastical/Exchanges-With-LN)
-- [Person-to-Person bitcoin Trading Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges)
+- [Exchanges with support for Lightning Network](https://cointastical.github.io/Exchanges-With-LN)
+- [Person-to-Person Trading Platforms](https://cointastical.github.io/P2P-Trading-Exchanges)
 
 [**NO KYC**] Online Exchanges:
 
