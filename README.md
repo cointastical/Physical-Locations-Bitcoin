@@ -12,7 +12,7 @@ Some of the following stores require KYC / Identity verification. When we learn 
 
 - BitKonan's [Bitcoin Store](https://www.bitcoinpit.de/bitcoin-store) (💵) Split & Zagreb, Croatia
 - [House of Nakamoto](https://www.thehouseofnakamoto.com/en/standort) (💵) Vienna, Austria
-- [bitbuy.at](https://bitbuy.at/contact/us) (💵) Vienna, Austria
+- [bitcoin.wien](https://www.bitcoin.wien/contact/us/) (💵) Vienna, Austria [Previously BitBuy.at]
 - [ComproEuros](https://comproeuro.it/) (💵) Roverto (TN), Bologna and Pordenone, Italy
 - [BitBase](https://bitbase.es/tiendas-bitcoin) (💵) Spain, and Portugal 
 - [Le Comptoir des Cybermonnaies](https://www.lecomptoirdescybermonnaies.fr/acheter-vendre-cryptomonnaies-comptoir) Bordeaux, France
