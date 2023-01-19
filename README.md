@@ -22,6 +22,7 @@ Some of the following stores require KYC / Identity verification. When we learn 
 - [AltcoinTurk Trader Base](https://np.reddit.com/r/Altcointurk/comments/c033pd) (💵) Istanbul, Turkey
 - [NakitCoins](https://nakitcoins.com/) (💵) Istanbul, Turkey and [partner locations](https://nakitcoins.com/partners-locator) in Turkey
 - [Wistrades](https://twitter.com/FxUndisputed) (💵) Nairobi, Kenya
+- [Digital Money LTD](https://dmexchange.com/) London, UK, Kampala, Uganda, and (soon) Nairobi, Kenya
 
 **North America:**
 
