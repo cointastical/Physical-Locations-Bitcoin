@@ -5,6 +5,8 @@ There are a number of foreign currency exchanges and other places where there is
 
 Some of the following stores require KYC / Identity verification. When we learn which do require KYC, and which do not (i.e., [**NO KYC**]), we will update this list accordingly.
 
+[Updated: 14 Jan, 2023. Note — there are some countries, such as Turkey, Ukraine, and others where there are numerous additional locations but we have no business names or location information on them.]
+
 **Physical stores and Trading Spaces**
 --------------------------------------
 
