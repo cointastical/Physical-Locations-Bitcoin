@@ -47,7 +47,6 @@ Vouchers (retail)
 - [BlueShyft](https://coinloft-locations.blueshyft.com.au/) (💵) Newsagents across Australia ([Coinloft](https://coinloft.com.au/buy/blueonline))
 - [AusPost](https://www.coindesk.com/australia-post-now-lets-customers-buy-bitcoin-at-over-3500-outlets) (💵) Australia
 - [Yellow Card](https://www.yellowcard.io/locations) (💵) Nigeria
-- [Tikebit](https://tikebit.com/map#marker=null&panel=false&lat=40.19146303804063&lng=-4.696655273437501&zoom=7) (💵) Portugal & Spain
 - [BitIns](https://www.bitins.net/#map-module) (💵) Slovenia
 - [BitNovo](https://www.bitnovo.com/bitcoin-selling-point-en) (💵) Spain, France, Italy, & Portugal
 
