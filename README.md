@@ -29,7 +29,6 @@ Some of the following stores require KYC / Identity verification. When we learn 
 
 - [Luxolo](https://luxolo.io/) (💵) Portland, ME
 - [Yap.cx](https://yap.cx/) (💵) Montreal, Quebec, Canada
-- [Coin Nerds](https://coinnerds.ca/) (💵) Mississauga, Ontario, Canada
 - [The Coin Shack](https://thecoinshack.ca/visit-store) (💵) Toronto, Ontario, Canada
 
 **Asia-Pacific:**
