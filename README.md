@@ -29,7 +29,6 @@ Some of the following stores require KYC / Identity verification. When we learn 
 **North America:**
 
 - [Luxolo](https://luxolo.io/) (💵) Portland, ME
-- [Cryptospace](https://www.cryptospaceus.com/otc) (💵) San Pedro, CA
 - [Bitcoin Exchange](https://twitter.com/tweetest1423/status/14436116073685647360) (💵) San Diego (Pacific Beach), CA
 - [Maine Bitcoin LLC](https://maine-bitcoin.com/office-lewiston) (💵) Lewiston, ME [Appointment required for face-to-face trade]
 - [BitLiquid](https://bit-liquid.com/contact#33eb8977-7de6-41b4-a017-4ec6a198f98b) (💵) St. Louis Park, MN & Las Vegas, NV
