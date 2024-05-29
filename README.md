@@ -64,13 +64,6 @@ Vending
 - [Coinstar](https://www.coinstar.com/bitcoin) (💵) (with [2,100+ locations in the U.S.](https://coinme.com/kiosks))
 - [SBB/Swiss Railway ticketing](https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/bitcoin.html) [Switzerland]
 
-Hardware wallet sales locations
--------------------------------
-
-Note: It's always more secure to buy direct from the manufacturer
-
-- [BitInsight](http://bitinsighthk.com/what.html) Hong Kong (💵)
-
 Over-the-counter (OTC)
 ----------------------
 
