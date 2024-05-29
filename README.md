@@ -48,7 +48,7 @@ Vouchers (retail)
 - [AusPost](https://www.coindesk.com/australia-post-now-lets-customers-buy-bitcoin-at-over-3500-outlets) (💵) Australia
 - [Yellow Card](https://www.yellowcard.io/locations) (💵) Nigeria
 - [BitIns](https://www.bitins.net/#map-module) (💵) Slovenia
-- [BitNovo](https://www.bitnovo.com/bitcoin-selling-point-en) (💵) Spain, France, Italy, & Portugal
+- [BitNovo](https://www.bitnovo.com/en/coupon-bitcoins-redeem/) (💵) Spain, France, Italy, & Portugal
 
 Gift Cards
 ----------
