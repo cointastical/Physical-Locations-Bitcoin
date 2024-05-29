@@ -20,7 +20,6 @@ Some of the following stores require KYC / Identity verification. When we learn 
 - [Le Comptoir des Cybermonnaies](https://www.lecomptoirdescybermonnaies.fr/acheter-vendre-cryptomonnaies-comptoir) Bordeaux, France
 - [CoinsFera](https://www.coinsfera.com/contact-us/) (💵) [Istanbul](https://www.coinsfera.com/en/branches?branch=istanbul), Turkey, and [Dubai](https://www.coinsfera.com/en/branches?branch=dubai), UAE
 - [Sirius Coin](https://www.siriuscoin.com/) (💵) Istanbul, Turkey
-- [Cointral](https://cointral.com/our-branches) (💵) Istanbul, Turkey, and Dubai, UAE
 - [AltcoinTurk Trader Base](https://np.reddit.com/r/Altcointurk/comments/c033pd) (💵) Istanbul, Turkey
 - [NakitCoins](https://nakitcoins.com/) (💵) Istanbul, Turkey and [partner locations](https://nakitcoins.com/partners-locator) in Turkey
 - [Wistrades](https://twitter.com/FxUndisputed) (💵) Nairobi, Kenya
