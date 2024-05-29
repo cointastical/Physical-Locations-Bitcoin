@@ -86,7 +86,7 @@ This document was specifically created for methods of buying, in-person, however
 
 - One [Azte.co](https://azte.co/vendors.html) vendor offers the [@BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) on Telegram, for purchase using SEPA/EUR bank transfer (and [@BitcoinVoucherGroup](https://t.me/BitcoinVoucherGroup) for support).
 - [lnp2pBot on Telegram](https://t.me/lnp2pBot) buy/sell P2P through LN. Mostly LATAM but also in EU/US.
-- [Ramp.Network](https://buy.ramp.network) <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
+- [Ramp.Network](https://ramp.network/buy) <-- Paying with bank transfer (GBP, or EUR/SEPA), or Revolut
 - [Relai](https://relai.ch) <-- [Bitcoin Only](https://bitcoin-only.com/get-bitcoin), EU, and CH
 - [no-KYC only](https://bitcoinqna.github.io/noKYConly) Guide
 - [KYCNot.me](https://kycnot.me) Directory
