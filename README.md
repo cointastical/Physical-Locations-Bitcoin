@@ -28,7 +28,6 @@ Some of the following stores require KYC / Identity verification. When we learn 
 **North America:**
 
 - [Luxolo](https://luxolo.io/) (💵) Portland, ME
-- [CoinhubATM](https://coinhubatm.com/contact-us) (💵) Santa Monica, CA & Las Vegas, NV [Appointment required due to COVID measure]
 - [Yap.cx](https://yap.cx/) (💵) Montreal, Quebec, Canada
 - [Coin Nerds](https://coinnerds.ca/) (💵) Mississauga, Ontario, Canada
 - [The Coin Shack](https://thecoinshack.ca/) (💵) Toronto, Ontario, Canada
