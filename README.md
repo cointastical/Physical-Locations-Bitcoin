@@ -33,7 +33,6 @@ Some of the following stores require KYC / Identity verification. When we learn 
 - [Maine Bitcoin LLC](https://maine-bitcoin.com/office-lewiston) (💵) Lewiston, ME [Appointment required for face-to-face trade]
 - [BitLiquid](https://bit-liquid.com/contact#33eb8977-7de6-41b4-a017-4ec6a198f98b) (💵) St. Louis Park, MN & Las Vegas, NV
 - [CoinhubATM](https://coinhubatm.com/contact-us) (💵) Santa Monica, CA & Las Vegas, NV [Appointment required due to COVID measure]
-- [Crypto Plug](https://www.cryptopluginglewood.com/) (💵) Inglewood, CA [Trading Space]
 - [Yap.cx](https://yap.cx/) (💵) Montreal, Quebec, Canada
 - [Coin Nerds](https://coinnerds.ca/) (💵) Mississauga, Ontario, Canada
 - [The Coin Shack](https://thecoinshack.ca/) (💵) Toronto, Ontario, Canada
