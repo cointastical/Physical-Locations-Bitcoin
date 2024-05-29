@@ -62,7 +62,7 @@ Vending
 
 - Bitcoin ATMs: [Coin ATM Radar](https://coinatmradar.com/) (💵) & [coinATMmap](https://coinatmmap.com/) (💵) (Some bitcoin ATMs are "two-way", meaning they also dispense cash)
 - [Coinstar](https://www.coinstar.com/bitcoin) (💵) (with [2,100+ locations in the U.S.](https://coinme.com/kiosks))
-- [SBB/Swiss Railway ticketing](https://www.sbb.ch/en/station-services/services/further-services/ticket-machine-services/bitcoin.html) [Switzerland]
+- [SBB/Swiss Railway ticketing](https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/bitcoin.html) [Switzerland]
 
 Hardware wallet sales locations
 -------------------------------
