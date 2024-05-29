@@ -18,7 +18,7 @@ Some of the following stores require KYC / Identity verification. When we learn 
 - [ComproEuros](https://comproeuro.it/) (💵) Roverto (TN), Bologna and Pordenone, Italy
 - [BitBase](https://bitbase.es/tiendas-bitcoin) (💵) Spain, and Portugal 
 - [Le Comptoir des Cybermonnaies](https://www.lecomptoirdescybermonnaies.fr/acheter-vendre-cryptomonnaies-comptoir) Bordeaux, France
-- [CoinsFera](https://www.coinsfera.com/) (💵) [Istanbul](https://www.coinsfera.com/en/branches?branch=istanbul), Turkey, and [Dubai](https://www.coinsfera.com/en/branches?branch=dubai), UAE
+- [CoinsFera](https://www.coinsfera.com/contact-us/) (💵) [Istanbul](https://www.coinsfera.com/en/branches?branch=istanbul), Turkey, and [Dubai](https://www.coinsfera.com/en/branches?branch=dubai), UAE
 - [Sirius Coin](https://www.siriuscoin.com/) (💵) Istanbul, Turkey
 - [Cointral](https://cointral.com/our-branches) (💵) Istanbul, Turkey, and Dubai, UAE
 - [AltcoinTurk Trader Base](https://np.reddit.com/r/Altcointurk/comments/c033pd) (💵) Istanbul, Turkey
